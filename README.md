@@ -244,20 +244,6 @@ Train all three models and compare:
 - DeBERTa-v3-base  
 - ModernBERT-base
 
----
-
-## 📝 Evaluation Rubric (20 pts)
-
-| Category | Points | Criteria |
-|----------|--------|----------|
-| *Data & Reproducibility* | 4 | ✅ Organized structure, functional notebook, requirements.txt, relative paths |
-| *Task 1: Retrieval* | 6 | ✅ RSS parsing, tokenization, embeddings, ChromaDB, LangChain, query results |
-| *Task 2: Classification* | 6 | ✅ AG News split (70/15/15), model training, no test snooping, F1 scores |
-| *Visualization* | 2 | ✅ F1 comparison chart, proper labels, interpretation |
-| *Bonus* | +3 | ✅ LLM classification, comparison analysis, F1 scores vs LLM |
-
----
-
 ## 🐛 Troubleshooting
 
 ### Common Issues
